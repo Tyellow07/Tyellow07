@@ -2,5 +2,4 @@
 
 ## About Me
 
-Hi 我是 Tyellow  
-PCSH 高二廢廢競程選手
+Hi 我是 Tyellow 
