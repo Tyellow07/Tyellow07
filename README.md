@@ -3,3 +3,6 @@
 ## About Me
 
 Hi 我是 Tyellow 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyellow07)](https://github.com/Tyellow07/github-readme-stats)
